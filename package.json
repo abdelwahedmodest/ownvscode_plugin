@@ -1,0 +1,20 @@
+{
+  "name": "pdf-scraper",
+  "version": "0.0.1",
+  "displayName": "PDF Scraper",
+  "engines": {
+      "vscode": "^1.0.0"
+  },
+  "contributes": {
+      "commands": [
+          {
+              "command": "extension.scrapePDF",
+              "title": "Scrape PDF"
+          }
+      ]
+  },
+  "dependencies": {
+      "request": "latest",
+      "pdf-parse": "latest"
+  }
+}
