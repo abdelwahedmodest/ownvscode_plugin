@@ -42,7 +42,7 @@ Make sure you are running the npm install -g vsce command with administrative pr
 
 Try to clear the npm cache by running npm cache clean --force and then try installing vsce again.
 
-If you still encounter an error, try to inspect the error message carefully, it might indicate the problem, or try to search for a solution online, maybe other people have encountered similar issues and found a solution.
+encounter an error, try to inspect the error message carefully, it might indicate the problem, or try to search for a solution online, maybe other people have encountered similar issues and found a solution.
 
 If the above steps don't work, please provide the exact error message, so we can help you better.
 
